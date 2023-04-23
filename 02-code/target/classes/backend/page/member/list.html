@@ -140,6 +140,7 @@
             }
             await getMemberList(params).then(res => {
               if (String(res.code) === '1') {
+                console.log(res,'打印员工列表res')
                 this.tableData = res.data.records || []
                 this.counts = res.data.total
               }
