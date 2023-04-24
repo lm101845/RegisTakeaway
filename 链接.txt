@@ -4,6 +4,7 @@ https://www.bilibili.com/video/BV13a411q753?p=1
 我觉得SpringBoot实战项目还是挺有意思的，不能一直学理论了，一定要穿插着搞点实战，检验一下。
 这个可以更好的巩固一下自己的理论知识。
 
+
 黑马《瑞吉外卖项目》
 在线观看：
 https://www.bilibili.com/video/BV13a411q753
@@ -13,6 +14,8 @@ https://www.bilibili.com/video/BV13a411q753
 阿里云盘：
 链接：https://www.aliyundrive.com/s/PKtpcSVu9rZ
 
+测试手机号：13211223344
+测试身份证号：325214252141252541
 
 第1-5集看完——23-04-14
 第6-12集看完——23-04-17
@@ -21,5 +24,5 @@ https://www.bilibili.com/video/BV13a411q753
 第25-30集看完——23-04-20
 第31-34集看完——23-04-21
 第35-37集看完——23-04-23
-
+第38-43集看完——23-04-24
 
