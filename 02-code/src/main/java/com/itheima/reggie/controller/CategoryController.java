@@ -65,7 +65,9 @@ public class CategoryController {
     @DeleteMapping
     public R<String> delete(Long ids){
         log.info("删除分类，ids为{}",ids);
-        categoryService.removeById(ids);
+        //categoryService.removeById(ids);
+        //需要判断当前分类是否关联了菜品或套餐，如果关联了，就不能删了
+        categoryService.remove(ids);
         return R.success("分类信息删除成功");
     }
 }
